@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-   Começei a estudar programação na faculdade, e logo me tornei monitor de algoritimos e estruturas de dados II, fiz iniciação cientifica(<a href="https://www.gov.br/cnpq/pt-br">CNPq</a>) no desenvolvimento de uma aplicação full stack(Flutter+Node.JS). Hoje trabalho como estágiario de desenvolvimento flutter na <a href="https://usemobile.com.br/">usemobile</a>. E sou entusiasta da tecnologia e pela solução de problemas que possam impactar a vida das pessoas <3
+   Começei a estudar programação na faculdade, e logo me tornei monitor de algoritimos e estruturas de dados II, fiz iniciação cientifica(<a href="https://www.gov.br/cnpq/pt-br">CNPq</a>) no desenvolvimento de uma aplicação full stack(Flutter+Node.JS). Ja trabalhei como estágiario de desenvolvimento flutter na <a href="https://usemobile.com.br/">usemobile</a>. E sou entusiasta da tecnologia e pela solução de problemas que possam impactar a vida das pessoas <3
 </samp>
 <samp>
   </samp>
