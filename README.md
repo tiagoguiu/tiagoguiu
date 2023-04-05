@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/tiago-rezende-274a1318a/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp"  width="35px" style="margin: 15px;" />
   </a>
-  <a href="https://www.instagram.com/tiagoo_rezendee/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp"  width="35px" style="margin: 15px;" />
-  </a>
   <a href="mailto:tiagoguiu98@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
