@@ -19,10 +19,6 @@
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="35px" style="margin: 15px;" />
   </a>
 </p>
-<div>
-  <a href="https://github.com/tiagoguiu">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoguiu)](https://github.com/anuraghazra/github-readme-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoguiu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br/><br/>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoguiu)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoguiu)](https://github.com/anuraghazra/github-readme-stats)
