@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-   Começei a estudar programação na faculdade, e logo me tornei monitor de algoritimos e estruturas de dados II, fiz iniciação cientifica(<a href="https://www.gov.br/cnpq/pt-br">CNPq</a>) no desenvolvimento de uma aplicação full stack(Flutter+Node.JS). Atualmente trabalho como desenvolvedor desenvolvedor Mobile Flutter na <a href="https://www.onebox.one/">OneBox</a>, com passagens pela <a href="https://vizo.dev">Vizo</a> e também <a href="https://usemobile.com.br/">usemobile</a>. E sou entusiasta da tecnologia e por soluções que possam impactar a vida das pessoas <3
+   Começei a estudar programação na faculdade, e logo me tornei monitor de algoritimos e estruturas de dados II, fiz iniciação cientifica(<a href="https://www.gov.br/cnpq/pt-br">CNPq</a>) no desenvolvimento de uma aplicação full stack(Flutter+Node.JS). Atualmente trabalho como desenvolvedor Mobile Flutter na <a href="https://www.onebox.one/">OneBox</a>, com passagens pela <a href="https://vizo.dev">Vizo</a> e também <a href="https://usemobile.com.br/">usemobile</a>. E sou entusiasta da tecnologia e por soluções que possam impactar a vida das pessoas <3
 </samp>
 <samp>
   </samp>
