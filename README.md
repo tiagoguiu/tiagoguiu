@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Olá, meu nome é tiago e sou estudante de Engenharia de telecomunicações!
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Olá, meu nome é tiago e sou Engenheiro de telecomunicações!
 
 <p align="center" >
   <samp>
